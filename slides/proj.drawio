@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T07:51:20.339Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="PKdu_NAFAGCPzlr-1SUB" version="13.10.0" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2020-11-23T08:00:47.056Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="s5UVI7f4eWytHSLMx7mV" version="13.10.0" type="github" pages="19">
   <diagram name="p01" id="JAdZ-fYIihXPGOBFneh6">
     <mxGraphModel dx="2020" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -475,6 +475,20 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="umkaI9WL3j_eqcJiwh53" name="p075">
+    <mxGraphModel dx="1414" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="notgAWcHH-U8noyfuGbr-0" />
+        <mxCell id="notgAWcHH-U8noyfuGbr-1" parent="notgAWcHH-U8noyfuGbr-0" />
+        <mxCell id="notgAWcHH-U8noyfuGbr-2" value="&lt;div style=&quot;text-align: justify ; font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Опр. &lt;i&gt;Проективная прямая - множество элементов, называемых точками,&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify ; font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;каждому из которых во взаимно-однозначное соответствие поставлена&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify ; font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;некоторая прямая&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;из некоторого пучка прямых на аффинной плоскости.&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="notgAWcHH-U8noyfuGbr-1">
+          <mxGeometry x="40" y="150" width="970" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="notgAWcHH-U8noyfuGbr-3" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Проективная прямая&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="notgAWcHH-U8noyfuGbr-1">
+          <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="p08" id="qhcPHosHvjXtiMysEJyb">
     <mxGraphModel dx="2020" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -603,7 +617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="p09" id="bF0OrB5IZjHexVaMRv9x">
-    <mxGraphModel dx="1778" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1768" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="sA-mhyiInrkV-sK7vu7y-0" />
         <mxCell id="sA-mhyiInrkV-sK7vu7y-1" parent="sA-mhyiInrkV-sK7vu7y-0" />
