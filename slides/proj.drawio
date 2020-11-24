@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T10:38:03.657Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ljjR3TsCZJ_SjXni4xf-" version="13.10.0" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2020-11-24T10:39:30.065Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="MvbWi4soXko0RpTslzPp" version="13.10.0" type="github" pages="19">
   <diagram name="p01" id="JAdZ-fYIihXPGOBFneh6">
     <mxGraphModel dx="1414" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -270,6 +270,9 @@
         <mxCell id="QRBS8ynR6M1J7KtN3euB-24" value="&lt;font style=&quot;font-size: 22px&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;l&lt;sub&gt;1&lt;/sub&gt;&lt;/i&gt; &amp;lt;==&amp;gt; A&lt;br&gt;&lt;i&gt;l&lt;sub&gt;2&lt;/sub&gt;&lt;/i&gt; &amp;lt;==&amp;gt; B&lt;br&gt;&lt;i&gt;l&lt;sub&gt;3&lt;/sub&gt;&lt;/i&gt; &amp;lt;==&amp;gt; C&lt;br&gt;&lt;/font&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 22px&quot;&gt;l&lt;sub&gt;4&lt;/sub&gt;&lt;/i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 22px&quot;&gt;&amp;nbsp;&amp;lt;==&amp;gt; D&lt;/span&gt;&lt;font style=&quot;font-size: 22px&quot; face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QRBS8ynR6M1J7KtN3euB-1">
           <mxGeometry x="815" y="350" width="110" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="gvrnKugg-ZysovMPYW2r-0" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Точки прямой =&amp;gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&amp;nbsp;прямые пучка&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QRBS8ynR6M1J7KtN3euB-1">
+          <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -370,6 +373,9 @@
         </mxCell>
         <mxCell id="NlRrzRNWNftfbyiuOCm7-25" value="&lt;font style=&quot;font-size: 22px&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;l&lt;sub&gt;5&lt;/sub&gt;&lt;/i&gt; &amp;lt;==&amp;gt; ???&lt;/font&gt;&lt;font style=&quot;font-size: 22px&quot; face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NlRrzRNWNftfbyiuOCm7-1">
           <mxGeometry x="810" y="515" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsNTxqNn7HfF1gbBl4t5-0" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&amp;nbsp;П&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;рямые пучка&amp;nbsp;&lt;/b&gt;&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;=&amp;gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&amp;nbsp;т&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;очки прямой&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NlRrzRNWNftfbyiuOCm7-1">
+          <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
