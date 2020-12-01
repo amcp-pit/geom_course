@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T11:43:51.897Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="54TuLkhlc6duNIlMPktm" version="13.10.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-12-01T11:46:27.864Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Q3fiI4z9r4QFUSicnQMI" version="13.10.4" type="github" pages="12">
   <diagram id="Bd35AwwSdtg2-qDgtLJh" name="p01">
     <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -820,6 +820,9 @@
         </mxCell>
         <mxCell id="ISiGrvkM10ptCWXtsWUu-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;=&amp;gt; D&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
           <mxGeometry x="780" y="610" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ISiGrvkM10ptCWXtsWUu-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Т.о. при задании точек &lt;/i&gt;A, B, C&lt;i&gt; величину&lt;/i&gt; (ABCD) &lt;i&gt;можно рассматривать &lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;i&gt;как координату точки &lt;/i&gt;&lt;span&gt;D&lt;/span&gt;&lt;/div&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
+          <mxGeometry x="50" y="700" width="890" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
