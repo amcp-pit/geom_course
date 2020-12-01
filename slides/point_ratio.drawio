@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T11:49:04.838Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="xuKCnSmgoC3f9a82oCQO" version="13.10.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-12-01T11:59:51.768Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="xBTA9Jbua_BNdR8IIfqq" version="13.10.4" type="github" pages="14">
   <diagram id="Bd35AwwSdtg2-qDgtLJh" name="p01">
     <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -823,6 +823,43 @@
         </mxCell>
         <mxCell id="ISiGrvkM10ptCWXtsWUu-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Т.о. при задании точек &lt;/i&gt;A, B, C&lt;i&gt; величину&lt;/i&gt; (ABCD) &lt;i&gt;можно рассматривать &lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;i&gt;как координату точки &lt;/i&gt;&lt;span&gt;D&lt;/span&gt;&lt;/div&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
           <mxGeometry x="50" y="730" width="890" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="p13" id="_L2CUhfQQQqkK82GfrQs">
+    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="RcTVVMHBbh_kbT33p5qZ-0" />
+        <mxCell id="RcTVVMHBbh_kbT33p5qZ-1" parent="RcTVVMHBbh_kbT33p5qZ-0" />
+        <mxCell id="RcTVVMHBbh_kbT33p5qZ-2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Свойства двойного отношения&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RcTVVMHBbh_kbT33p5qZ-1">
+          <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DopHqtqScOdPDiAyC8CC-0" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;Теор. &lt;/b&gt;&lt;i&gt;При перестановке порядка точек в двойном отношении&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="RcTVVMHBbh_kbT33p5qZ-1">
+          <mxGeometry x="40" y="130" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CEql7ilFt6yFrpJCYuyo-0" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 32px&quot;&gt;$$1. (CDAB) = (ABCD)$$&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="RcTVVMHBbh_kbT33p5qZ-1">
+          <mxGeometry x="440" y="205" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CEql7ilFt6yFrpJCYuyo-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 32px&quot;&gt;$$2. (ABDC) = \frac{1}{(ABCD)}$$&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="RcTVVMHBbh_kbT33p5qZ-1">
+          <mxGeometry x="440" y="280" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CEql7ilFt6yFrpJCYuyo-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 32px&quot;&gt;$$3. (DBCA) = 1 - (ABCD)$$&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="RcTVVMHBbh_kbT33p5qZ-1">
+          <mxGeometry x="440" y="350" width="410" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="p14" id="96S6b0zhxdI8dk9_7xt6">
+    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="IIGMto7pjLzRKLr_-T_4-0" />
+        <mxCell id="IIGMto7pjLzRKLr_-T_4-1" parent="IIGMto7pjLzRKLr_-T_4-0" />
+        <mxCell id="IIGMto7pjLzRKLr_-T_4-2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Взаимосвязь двойного отношения и разделения точек&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IIGMto7pjLzRKLr_-T_4-1">
+          <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IIGMto7pjLzRKLr_-T_4-3" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;Теор. &lt;/b&gt;&lt;i&gt;Точки &lt;/i&gt;A &lt;i&gt;и&lt;/i&gt; B &lt;i&gt;разделяют точки&amp;nbsp;&lt;/i&gt;C &lt;i&gt;и&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 28px&quot;&gt;D &amp;lt;=&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;(ABCD) &amp;lt; 0&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IIGMto7pjLzRKLr_-T_4-1">
+          <mxGeometry x="40" y="140" width="730" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
