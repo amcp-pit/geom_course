@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T18:49:15.292Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="SSzxBHQbQJNaacQ6tgL5" version="13.10.4" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2020-12-02T18:50:32.480Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="2Mc2ZscamP9DZsMGUIC-" version="13.10.4" type="github" pages="24">
   <diagram name="p01" id="LTR2xaeMvxZZA6s-loW1">
     <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1479,6 +1479,9 @@
         <mxCell id="RUfVccfErD4RWs0tI6Hj-1" parent="RUfVccfErD4RWs0tI6Hj-0" />
         <mxCell id="Y6RMcLEpZuWpNncFMgrf-0" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Принцип двойственности&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RUfVccfErD4RWs0tI6Hj-1">
           <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6RMcLEpZuWpNncFMgrf-1" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 32px&quot;&gt;Если верно некоторое общее утверждение о точках, прямых и инцидентности между ними на проективной плоскости, то верно и двойственное утверждение, в котором точки и прямые меняются местами.&lt;/i&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="RUfVccfErD4RWs0tI6Hj-1">
+          <mxGeometry x="80" y="130" width="990" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
