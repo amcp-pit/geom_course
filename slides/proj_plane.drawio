@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T18:44:54.927Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="dnjKf7z6X4ktDcqEgbXz" version="13.10.4" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2020-12-02T18:49:15.292Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="SSzxBHQbQJNaacQ6tgL5" version="13.10.4" type="github" pages="24">
   <diagram name="p01" id="LTR2xaeMvxZZA6s-loW1">
     <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1448,6 +1448,37 @@
         </mxCell>
         <mxCell id="F6xXwXVPMxPWe063tn_C-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 28px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;$$\begin{vmatrix} p_1&amp;amp;p_2&amp;amp;p_3\\&lt;br&gt;l_1&amp;amp;l_2&amp;amp;l_3\\&lt;br&gt;m_1&amp;amp;m_2&amp;amp;m_3 \end{vmatrix} = 0$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qZX8dCP1WkHnNh5_rLko-1">
           <mxGeometry x="150" y="540" width="900" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="p19" id="8ZFotd0bu4QxGEpmhpcl">
+    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="DMU4syy6cITH4Nd1wUo7-0" />
+        <mxCell id="DMU4syy6cITH4Nd1wUo7-1" parent="DMU4syy6cITH4Nd1wUo7-0" />
+        <mxCell id="DMU4syy6cITH4Nd1wUo7-2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Наблюдение&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DMU4syy6cITH4Nd1wUo7-1">
+          <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DMU4syy6cITH4Nd1wUo7-3" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 30px ; font-weight: 400 ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;i&gt;Отображение&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="DMU4syy6cITH4Nd1wUo7-1">
+          <mxGeometry x="70" y="130" width="1030" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMU4syy6cITH4Nd1wUo7-4" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;i&gt;взаимно-однозначно и сохраняет свойство инцицдентности&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="DMU4syy6cITH4Nd1wUo7-1">
+          <mxGeometry x="70" y="240" width="970" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMU4syy6cITH4Nd1wUo7-5" value="&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 30px ; font-weight: 400 ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&amp;nbsp;{p&lt;/i&gt;&lt;sub style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-weight: 400 ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-style: italic&quot;&gt;1&lt;/sub&gt;&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 30px ; font-weight: 400 ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;, p&lt;/i&gt;&lt;sub style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-weight: 400 ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-style: italic&quot;&gt;2&lt;/sub&gt;&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 30px ; font-weight: 400 ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;, p&lt;/i&gt;&lt;sub style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-weight: 400 ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-style: italic&quot;&gt;3&lt;/sub&gt;&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 30px ; font-weight: 400 ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;} &amp;lt;==&amp;gt; (&lt;/i&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 30px ; text-align: justify&quot;&gt;p&lt;/i&gt;&lt;sub style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; text-align: justify ; font-style: italic&quot;&gt;1&lt;/sub&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 30px ; text-align: justify&quot;&gt;, p&lt;/i&gt;&lt;sub style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; text-align: justify ; font-style: italic&quot;&gt;2&lt;/sub&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 30px ; text-align: justify&quot;&gt;, p&lt;/i&gt;&lt;sub style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; text-align: justify ; font-style: italic&quot;&gt;3&lt;/sub&gt;&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 30px ; font-weight: 400 ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;)&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="DMU4syy6cITH4Nd1wUo7-1">
+          <mxGeometry x="360" y="180" width="500" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_xxGpHdyB7m7dw5B2tvM" name="p20">
+    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="RUfVccfErD4RWs0tI6Hj-0" />
+        <mxCell id="RUfVccfErD4RWs0tI6Hj-1" parent="RUfVccfErD4RWs0tI6Hj-0" />
+        <mxCell id="Y6RMcLEpZuWpNncFMgrf-0" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Принцип двойственности&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RUfVccfErD4RWs0tI6Hj-1">
+          <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
