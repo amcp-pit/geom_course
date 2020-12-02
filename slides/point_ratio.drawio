@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T06:38:51.468Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Y-nI1-jQ978vhaUyP5Nd" version="13.10.4" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-12-02T08:24:57.663Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="I5UElSxTKL1U4JGQGD0H" version="13.10.4" type="github" pages="14">
   <diagram id="Bd35AwwSdtg2-qDgtLJh" name="p01">
     <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -88,7 +88,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="19MXLALKDynMz9W1wI0P" name="p03">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="egEGvD__70AkIFRkSdIo-0" />
         <mxCell id="egEGvD__70AkIFRkSdIo-1" parent="egEGvD__70AkIFRkSdIo-0" />
@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9HJ3zjZjQH30GQfUyDW2" name="p04">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Nlt6tRc9HNVBy5Fak9q7-0" />
         <mxCell id="Nlt6tRc9HNVBy5Fak9q7-1" parent="Nlt6tRc9HNVBy5Fak9q7-0" />
@@ -338,7 +338,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="l5tBp6tndUef92G5OC4E" name="p05">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="3acHpLatw02RnhxD2Sc7-0" />
         <mxCell id="3acHpLatw02RnhxD2Sc7-1" parent="3acHpLatw02RnhxD2Sc7-0" />
@@ -448,7 +448,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I7z9K3Hc_kNzYyYx-l8W" name="p06">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="wwuQ2AWF-JpnaoTyep8y-0" />
         <mxCell id="wwuQ2AWF-JpnaoTyep8y-1" parent="wwuQ2AWF-JpnaoTyep8y-0" />
@@ -795,34 +795,37 @@
           <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TZNsrL__8myBM7XNsvKI-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$ D =A =&amp;gt; (ABCD) = \infty$$&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
-          <mxGeometry x="470" y="150" width="330" height="20" as="geometry" />
+          <mxGeometry x="470" y="114" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TZNsrL__8myBM7XNsvKI-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$ D = B =&amp;gt; (ABCD) = 0$$&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
-          <mxGeometry x="485" y="210" width="300" height="20" as="geometry" />
+          <mxGeometry x="485" y="174" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TZNsrL__8myBM7XNsvKI-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$ D = C =&amp;gt; (ABCD) = 1$$&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
-          <mxGeometry x="485" y="270" width="300" height="20" as="geometry" />
+          <mxGeometry x="485" y="234" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-we9svZUr-j08IITMgqQ-0" value="&lt;font style=&quot;font-size: 28px&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Теор. &lt;/b&gt;&lt;i&gt;Пусть заданы точки &lt;/i&gt;A, B, C&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 28px&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 28px&quot;&gt;тогда точка&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 28px&quot;&gt;D &lt;i&gt;&lt;b&gt;определяется однозначно&lt;/b&gt;&lt;/i&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 28px&quot; face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;i&gt;&amp;nbsp;величиной двойного отношения&amp;nbsp;&lt;/i&gt;&lt;span&gt;(ABCD)&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
-          <mxGeometry x="50" y="350" width="960" height="40" as="geometry" />
+          <mxGeometry x="50" y="314" width="960" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_BNa1ZsSY3mT_D1NthyW-0" value="&lt;font style=&quot;font-size: 28px&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Д-во: при&lt;/i&gt; (ABCD) = 0 &lt;i&gt;получаем&lt;/i&gt; D = B,&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 28px&quot;&gt;&lt;i&gt;при&lt;/i&gt; (ABCD) =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-family: &amp;#34;u2000&amp;#34; ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;∞&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 28px&quot;&gt;&amp;nbsp;&lt;i&gt;получаем&lt;/i&gt; D = A.&lt;br&gt;&lt;i&gt;Иначе в представлении&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
-          <mxGeometry x="60" y="435" width="880" height="50" as="geometry" />
+          <mxGeometry x="60" y="399" width="880" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3a4KDV-fiamYBb9l5aM5-0" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;(x&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;sub&gt;1D&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;:x&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;sub&gt;2D&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;α&#39;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;(x&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;sub&gt;1A&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;:x&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;sub&gt;2A&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;) +&lt;/span&gt;&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-family: &amp;#34;u0000&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;β&#39;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;(x&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;sub&gt;1B&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;:x&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;sub&gt;2B&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
-          <mxGeometry x="310" y="520" width="400" height="30" as="geometry" />
+          <mxGeometry x="310" y="484" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3a4KDV-fiamYBb9l5aM5-1" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;коэффициенты&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;α&#39; &lt;i&gt;и&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;β&#39; &lt;i&gt;можно определить с точностью до масштаба:&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;br&gt;&amp;nbsp;&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
-          <mxGeometry x="50" y="570" width="950" height="50" as="geometry" />
+          <mxGeometry x="50" y="534" width="950" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ISiGrvkM10ptCWXtsWUu-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$ \frac{\beta&#39;}{\alpha&#39;}=&lt;br&gt;\frac{\beta}{\alpha}:(ABCD)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
-          <mxGeometry x="380" y="628" width="330" height="40" as="geometry" />
+          <mxGeometry x="380" y="592" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ISiGrvkM10ptCWXtsWUu-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;=&amp;gt; D&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
-          <mxGeometry x="780" y="638" width="70" height="20" as="geometry" />
+          <mxGeometry x="780" y="602" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ISiGrvkM10ptCWXtsWUu-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Т.о. при задании точек &lt;/i&gt;A, B, C&lt;i&gt; величину&lt;/i&gt; (ABCD) &lt;i&gt;можно рассматривать &lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;i&gt;как координату точки &lt;/i&gt;&lt;span&gt;D&lt;/span&gt;&lt;/div&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
-          <mxGeometry x="50" y="730" width="890" height="40" as="geometry" />
+          <mxGeometry x="50" y="674" width="890" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Va2i5eYHIs-wCk6Unq2H-0" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Если&lt;/i&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;D = (x&lt;sub&gt;1&lt;/sub&gt;:x&lt;sub&gt;2&lt;/sub&gt;), &lt;i&gt;то&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;(E&lt;sub&gt;1&lt;/sub&gt;E&lt;sub&gt;2&lt;/sub&gt;E&lt;sub&gt;0&lt;/sub&gt;D) = x&lt;sub&gt;1&lt;/sub&gt;:x&lt;sub&gt;2&lt;/sub&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M1BEzgRh64jR1ZBn_N7x-1">
+          <mxGeometry x="60" y="765" width="480" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -860,7 +863,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="p14" id="96S6b0zhxdI8dk9_7xt6">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1673" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="IIGMto7pjLzRKLr_-T_4-0" />
         <mxCell id="IIGMto7pjLzRKLr_-T_4-1" parent="IIGMto7pjLzRKLr_-T_4-0" />
@@ -869,6 +872,9 @@
         </mxCell>
         <mxCell id="IIGMto7pjLzRKLr_-T_4-3" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;Теор. &lt;/b&gt;&lt;i&gt;Точки &lt;/i&gt;A &lt;i&gt;и&lt;/i&gt; B &lt;i&gt;разделяют точки&amp;nbsp;&lt;/i&gt;C &lt;i&gt;и&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 28px&quot;&gt;D &amp;lt;=&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;(ABCD) &amp;lt; 0&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IIGMto7pjLzRKLr_-T_4-1">
           <mxGeometry x="40" y="140" width="730" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5auLICIGCwYctNo0wYU4-0" value="&lt;div&gt;&lt;b style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Опр. &lt;/b&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Четверка точек &lt;/i&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;A, B, C, D&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt; называется гармонической, если &lt;/i&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;(ABCD) = -1&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IIGMto7pjLzRKLr_-T_4-1">
+          <mxGeometry x="40" y="470" width="960" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
