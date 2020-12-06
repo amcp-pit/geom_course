@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T18:19:27.798Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="a_TuMfFh5J9JcW-8HHsl" version="13.10.9" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2020-12-06T18:26:07.644Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="fKfzWm4LPfHZU9IJCk3D" version="13.10.9" type="github" pages="25">
   <diagram name="p01" id="LTR2xaeMvxZZA6s-loW1">
     <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1478,7 +1478,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RhN1wHnfW-piOK3ZbEfi" name="p21">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="YK_dab84D7P3SnsyeUe--0" />
         <mxCell id="YK_dab84D7P3SnsyeUe--1" parent="YK_dab84D7P3SnsyeUe--0" />
@@ -1487,173 +1487,6 @@
         </mxCell>
         <mxCell id="5oXIQ6WxLqRIgJEgZ9IS-0" value="&lt;div style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; text-align: justify ; font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Теор.&lt;i&gt; &lt;/i&gt;&lt;/b&gt;&lt;i&gt;Пусть даны два трехвершинника ABC и A&#39;B&#39;C&#39;, такие, что одноименные вершины и прямые, содержащие соответствующие стороны не совпадают&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;. Тогда три прямые AA&#39;, BB&#39;, CC&#39; пересекаются в одной точке &amp;lt;=&amp;gt; точки пересечения прямых AB и A&#39;B&#39;, AC и A&#39;C&#39;, BC и B&#39;C&#39; лежат на одной прямой.&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="YK_dab84D7P3SnsyeUe--1" vertex="1">
           <mxGeometry x="40" y="120" width="1090" height="70" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="p22" id="DLQpAvPrtUbYdDvNZ_r8">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
-      <root>
-        <mxCell id="KzKFW0jnUTyGEeZzbuEv-0" />
-        <mxCell id="KzKFW0jnUTyGEeZzbuEv-1" parent="KzKFW0jnUTyGEeZzbuEv-0" />
-        <mxCell id="KzKFW0jnUTyGEeZzbuEv-2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Проективные отображения&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KzKFW0jnUTyGEeZzbuEv-1">
-          <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KzKFW0jnUTyGEeZzbuEv-3" value="&lt;div&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Опр.&lt;/b&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Отображение&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;ψ&lt;/i&gt;&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;множества точек прямой l проективной плоскости&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;div&gt;&lt;i&gt;во множество точек другой прямой l&#39;&amp;nbsp; проективной плоскости называется&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;проективным, если оно является взаимно-однозначным и сохраняет &lt;br&gt;двойное отношение точек на прямых&lt;/i&gt;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="KzKFW0jnUTyGEeZzbuEv-1">
-          <mxGeometry x="50" y="110" width="930" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="e0bB1t2cfQxFz7L621It-0" value="&lt;div&gt;&lt;/div&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Суперпозиция проективных отображений - также проективное отображение&lt;/i&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="KzKFW0jnUTyGEeZzbuEv-1">
-          <mxGeometry x="50" y="340" width="970" height="20" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="p23" id="YPdVXJu-xIlIaCmpYBs6">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
-      <root>
-        <mxCell id="uJIFPMCv4TthrZqJF3ER-0" />
-        <mxCell id="uJIFPMCv4TthrZqJF3ER-1" parent="uJIFPMCv4TthrZqJF3ER-0" />
-        <mxCell id="uJIFPMCv4TthrZqJF3ER-2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Перспективные отображения&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uJIFPMCv4TthrZqJF3ER-1" vertex="1">
-          <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uJIFPMCv4TthrZqJF3ER-27" value="&lt;div&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Опр.&lt;/b&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Отображение&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;ψ&lt;/i&gt;&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;множества точек прямой l проективной плоскости&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;div&gt;&lt;i&gt;во множество точек другой прямой l&#39;&amp;nbsp; проективной плоскости называется&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;перспективным с центром в точке&amp;nbsp;&lt;/i&gt;O&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u2000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;∉ &lt;i&gt;l,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;O&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u2000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;∉&amp;nbsp;&lt;i&gt;l&#39;&lt;/i&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-style: italic ; font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;, если точки&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-style: italic ; font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;O&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-style: italic ; font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;,&lt;/font&gt;&lt;font style=&quot;font-style: italic ; font-size: 28px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt; A&lt;/font&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;times new roman&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;∈ &lt;i&gt;l&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-style: italic ; font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;, A&#39;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-style: italic ; font-size: 28px ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;times new roman&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;∈&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;l&#39;&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u2000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;div&gt;&lt;i&gt;располагаются на одной прямой и&amp;nbsp;&lt;/i&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="uJIFPMCv4TthrZqJF3ER-1" vertex="1">
-          <mxGeometry x="50" y="115" width="930" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="AOTm9WpBNPdCGlpTdOO_-6" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Свойства:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;взаимно-однозначность&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;существование неподвижной точки&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;сохранение двойного отношения&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="uJIFPMCv4TthrZqJF3ER-1" vertex="1">
-          <mxGeometry x="50" y="353" width="490" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="iNDLdJzTFSKuzjC-M5ey-0" value="&lt;font style=&quot;font-size: 28px&quot;&gt;$$\psi: A\rightarrow A&#39; $$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uJIFPMCv4TthrZqJF3ER-1">
-          <mxGeometry x="425" y="250" width="320" height="20" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="OajB37qfS5taqp_0sIyL" name="p24">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="ON2HA11NtkQmvKsnWKOJ-0" />
-        <mxCell id="ON2HA11NtkQmvKsnWKOJ-1" parent="ON2HA11NtkQmvKsnWKOJ-0" />
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-0" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Перспективные отображения&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-3" value="" style="endArrow=none;html=1;dashed=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="784" y="800" as="sourcePoint" />
-            <mxPoint x="414" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-5" value="" style="endArrow=none;html=1;dashed=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" source="Q6S6-TnNtL9UczXBH06b-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="314" y="800" as="sourcePoint" />
-            <mxPoint x="614" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-6" value="" style="endArrow=none;html=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="44" y="720" as="sourcePoint" />
-            <mxPoint x="1124" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;A&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="304" y="730" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;B&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="539" y="730" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;C&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="704" y="730" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="738" y="717" width="5" height="5" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;O&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="484" y="302" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="345" y="718" width="5" height="5" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-15" value="" style="endArrow=none;html=1;dashed=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" target="Q6S6-TnNtL9UczXBH06b-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="314" y="800" as="sourcePoint" />
-            <mxPoint x="614" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-28" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="150" as="sourcePoint" />
-            <mxPoint x="900" y="804" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="482" y="407" width="5" height="5" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="663" y="580" width="5" height="5" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-33" value="&lt;font style=&quot;font-size: 18px&quot;&gt;C&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="670" y="560" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-34" value="&lt;font style=&quot;font-size: 18px&quot;&gt;B&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="508.5" y="460" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;A&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="435" y="404" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="563" y="718" width="5" height="5" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-36" value="" style="endArrow=none;html=1;strokeWidth=1;dashed=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="572" y="790" as="sourcePoint" />
-            <mxPoint x="502" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="535.5" y="459" width="5" height="5" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="521" y="318" width="5" height="5" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-38" value="" style="endArrow=none;html=1;strokeWidth=1;dashed=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="868" y="800" as="sourcePoint" />
-            <mxPoint x="380" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="809" y="717" width="5" height="5" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-39" value="&lt;font style=&quot;font-size: 18px&quot;&gt;D&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="809" y="690" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6S6-TnNtL9UczXBH06b-40" value="&lt;font style=&quot;font-size: 18px&quot;&gt;D&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="784" y="730" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6LQiTudkKrv5bVh54Gs0-0" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 28px&quot;&gt;l&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="1080" y="685" width="20" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6LQiTudkKrv5bVh54Gs0-1" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 28px&quot;&gt;l&#39;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ON2HA11NtkQmvKsnWKOJ-1" vertex="1">
-          <mxGeometry x="895" y="770" width="30" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="p25" id="rcrqGndtrFWcOBGW60qz">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
-      <root>
-        <mxCell id="SPBcmTqretac-UOiQq1--0" />
-        <mxCell id="SPBcmTqretac-UOiQq1--1" parent="SPBcmTqretac-UOiQq1--0" />
-        <mxCell id="SPBcmTqretac-UOiQq1--2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Перспективные отображения&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SPBcmTqretac-UOiQq1--1">
-          <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SPBcmTqretac-UOiQq1--3" value="&lt;div&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Опр.&lt;/b&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Отображение&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;ψ&lt;/i&gt;&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;множества точек прямой l проективной плоскости&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;div&gt;&lt;i&gt;во множество точек другой прямой l&#39;&amp;nbsp; проективной плоскости называется&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;перспективным с центром в точке&amp;nbsp;&lt;/i&gt;O&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u2000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;∉ &lt;i&gt;l,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;O&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u2000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;∉&amp;nbsp;&lt;i&gt;l&#39;&lt;/i&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-style: italic ; font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;, если точки&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-style: italic ; font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;O&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-style: italic ; font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;,&lt;/font&gt;&lt;font style=&quot;font-style: italic ; font-size: 28px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt; A&lt;/font&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;times new roman&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;∈ &lt;i&gt;l&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-style: italic ; font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;, A&#39;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-style: italic ; font-size: 28px ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;times new roman&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;∈&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;l&#39;&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u2000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;div&gt;&lt;i&gt;располагаются на одной прямой и&amp;nbsp;&lt;/i&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SPBcmTqretac-UOiQq1--1">
-          <mxGeometry x="50" y="115" width="930" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SPBcmTqretac-UOiQq1--4" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Свойства:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;взаимно-однозначность&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;существование неподвижной точки&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;сохранение двойного отношения&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SPBcmTqretac-UOiQq1--1">
-          <mxGeometry x="50" y="353" width="490" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="SPBcmTqretac-UOiQq1--5" value="&lt;font style=&quot;font-size: 28px&quot;&gt;$$\psi: A\rightarrow A&#39; $$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SPBcmTqretac-UOiQq1--1">
-          <mxGeometry x="425" y="250" width="320" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
