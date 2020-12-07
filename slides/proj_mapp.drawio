@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T17:24:19.177Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="XLzeGXejwprCpAufUpE0" version="13.10.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-07T18:07:46.346Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="K0idjGdgTru5JzdN1TwG" version="13.10.9" type="github" pages="7">
   <diagram name="p01" id="DLQpAvPrtUbYdDvNZ_r8">
     <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -178,7 +178,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HHVidsmUwzjsRozAI8lB" name="p06">
-    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="dCOYDyRgkQMX8UILQ8l--0" />
         <mxCell id="dCOYDyRgkQMX8UILQ8l--1" parent="dCOYDyRgkQMX8UILQ8l--0" />
@@ -186,13 +186,45 @@
           <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cUMaaJzzI1bp_72zzjhb-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Точки &amp;lt;==&amp;gt; точки&lt;br&gt;Прямые &amp;lt;==&amp;gt; прямые&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dCOYDyRgkQMX8UILQ8l--1">
-          <mxGeometry x="60" y="340" width="290" height="40" as="geometry" />
+          <mxGeometry x="107" y="340" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cUMaaJzzI1bp_72zzjhb-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Точки &amp;lt;==&amp;gt; прямые&lt;br&gt;Прямые &amp;lt;==&amp;gt; точки&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dCOYDyRgkQMX8UILQ8l--1">
           <mxGeometry x="745" y="340" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y0hAmP5XkUiFJ9w4xcNF-0" value="&lt;div&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Опр.&lt;/b&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Отображение&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;ψ&lt;/i&gt;&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-size: 28px&quot;&gt;&lt;font face=&quot;times new roman&quot;&gt;множества элементов проективной плоскости на себя&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;называется&amp;nbsp;&lt;/i&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;проективным, если оно является взаимно-однозначным и сохраняет &lt;br&gt;свойства инцидентности и двойного отношения&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dCOYDyRgkQMX8UILQ8l--1">
           <mxGeometry x="50" y="120" width="980" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IKi0XMyBoPubwYhylIfw-0" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Коллинеарные точки&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dCOYDyRgkQMX8UILQ8l--1">
+          <mxGeometry x="117" y="440" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IKi0XMyBoPubwYhylIfw-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Коллинеарные точки&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dCOYDyRgkQMX8UILQ8l--1">
+          <mxGeometry x="117" y="580" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IKi0XMyBoPubwYhylIfw-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;&amp;lt;==&amp;gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;" vertex="1" parent="dCOYDyRgkQMX8UILQ8l--1">
+          <mxGeometry x="207" y="520" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IKi0XMyBoPubwYhylIfw-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Коллинеарные точки&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dCOYDyRgkQMX8UILQ8l--1">
+          <mxGeometry x="745" y="440" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IKi0XMyBoPubwYhylIfw-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;&amp;lt;==&amp;gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;" vertex="1" parent="dCOYDyRgkQMX8UILQ8l--1">
+          <mxGeometry x="835" y="520" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IKi0XMyBoPubwYhylIfw-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Прямые из одного пучка&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dCOYDyRgkQMX8UILQ8l--1">
+          <mxGeometry x="730" y="580" width="300" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="p07" id="NnmPaI4NYrRI8oHxBw8H">
+    <mxGraphModel dx="1673" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="oVWzaf4ahUai5T_qGQml-0" />
+        <mxCell id="oVWzaf4ahUai5T_qGQml-1" parent="oVWzaf4ahUai5T_qGQml-0" />
+        <mxCell id="oVWzaf4ahUai5T_qGQml-2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Свойства проективных отображений плоскости&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oVWzaf4ahUai5T_qGQml-1">
+          <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n_DQGZyml21vEd85zqVt-0" value="&lt;div&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Теор.&lt;/b&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;&lt;i&gt;Пусть A, B, C, D&amp;nbsp; &amp;nbsp;и&amp;nbsp; &amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;A&#39;, B&#39;, C&#39;, D&#39;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&lt;i&gt;-&lt;/i&gt;&amp;nbsp;&lt;i&gt;четверки различных точек&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;проективной &lt;br&gt;плоскости,&amp;nbsp;при этом никакая тройка точек из этих четверок &lt;br&gt;не лежит на одной прямой&amp;nbsp;соответственно.&lt;br&gt;Тогда существует единственное проективное отображение,&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;переводящее первую четверку точек во вторую.&lt;/i&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="oVWzaf4ahUai5T_qGQml-1">
+          <mxGeometry x="40" y="100" width="990" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
