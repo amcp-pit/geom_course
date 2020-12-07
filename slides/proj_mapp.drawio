@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T18:07:46.346Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="K0idjGdgTru5JzdN1TwG" version="13.10.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-12-07T18:18:58.827Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="LHO0TND5SO3A53l5TIyN" version="13.10.9" type="github" pages="7">
   <diagram name="p01" id="DLQpAvPrtUbYdDvNZ_r8">
     <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -224,7 +224,10 @@
           <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n_DQGZyml21vEd85zqVt-0" value="&lt;div&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Теор.&lt;/b&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;&lt;i&gt;Пусть A, B, C, D&amp;nbsp; &amp;nbsp;и&amp;nbsp; &amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;A&#39;, B&#39;, C&#39;, D&#39;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&lt;i&gt;-&lt;/i&gt;&amp;nbsp;&lt;i&gt;четверки различных точек&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;проективной &lt;br&gt;плоскости,&amp;nbsp;при этом никакая тройка точек из этих четверок &lt;br&gt;не лежит на одной прямой&amp;nbsp;соответственно.&lt;br&gt;Тогда существует единственное проективное отображение,&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;переводящее первую четверку точек во вторую.&lt;/i&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="oVWzaf4ahUai5T_qGQml-1">
-          <mxGeometry x="40" y="100" width="990" height="100" as="geometry" />
+          <mxGeometry x="40" y="300" width="990" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n_DQGZyml21vEd85zqVt-1" value="&lt;div&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Следствие.&lt;/b&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;&lt;i&gt;Для любой прямой существует отображение, переводящее ее в несобственную&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;u0000&amp;#34; ; font-size: 28px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;.&lt;/i&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="oVWzaf4ahUai5T_qGQml-1">
+          <mxGeometry x="40" y="620" width="1120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
