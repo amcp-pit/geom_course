@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T11:49:12.185Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="QumCwUw58TUO4gpWtzk6" version="13.11.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-12-09T12:06:47.584Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="z6EH-7F7krGxxsIYmw7j" version="14.0.0" type="github" pages="9">
   <diagram name="p01" id="DLQpAvPrtUbYdDvNZ_r8">
-    <mxGraphModel dx="1629" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="924" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="KzKFW0jnUTyGEeZzbuEv-0" />
         <mxCell id="KzKFW0jnUTyGEeZzbuEv-1" parent="KzKFW0jnUTyGEeZzbuEv-0" />
@@ -236,7 +236,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="p08" id="KDFl_rMuDugmAGQuzOt5">
-    <mxGraphModel dx="931" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="924" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="NYqeFmumJkefznfXw7mZ-0" />
         <mxCell id="NYqeFmumJkefznfXw7mZ-1" parent="NYqeFmumJkefznfXw7mZ-0" />
@@ -252,34 +252,37 @@
         <mxCell id="OJ7T-bkHoUwK145yCYgN-1" value="&lt;div&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Теор.&lt;/b&gt;&lt;span style=&quot;font-size: 28px ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;Проективно-аффинному отображению &lt;/span&gt;&lt;i style=&quot;font-size: 28px&quot;&gt;&lt;font face=&quot;times new roman&quot;&gt;проективной плоскости соответствует&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;аффинное отображение на аффинной ( нерасширенной ) плоскости.&lt;/i&gt;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="NYqeFmumJkefznfXw7mZ-1" vertex="1">
           <mxGeometry x="49" y="300" width="1050" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-ltN7F4MwENS1-5hIwpi-0" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;Д-во&lt;/b&gt;. Рассмотрим однородную СК, тогда БУП имеет уравнение&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NYqeFmumJkefznfXw7mZ-1">
+        <mxCell id="-ltN7F4MwENS1-5hIwpi-0" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;Д-во&lt;/b&gt;. Рассмотрим однородную СК, тогда БУП имеет уравнение&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="NYqeFmumJkefznfXw7mZ-1" vertex="1">
           <mxGeometry x="49" y="404" width="790" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-ltN7F4MwENS1-5hIwpi-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$x_3=0.$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NYqeFmumJkefznfXw7mZ-1">
+        <mxCell id="-ltN7F4MwENS1-5hIwpi-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$x_3=0.$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="NYqeFmumJkefznfXw7mZ-1" vertex="1">
           <mxGeometry x="480" y="460" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ERphHXKp3jjvEDwbwFeR-0" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Если отображение&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NYqeFmumJkefznfXw7mZ-1">
+        <mxCell id="ERphHXKp3jjvEDwbwFeR-0" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;Если отображение&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="NYqeFmumJkefznfXw7mZ-1" vertex="1">
           <mxGeometry x="50" y="530" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ERphHXKp3jjvEDwbwFeR-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$\lambda X&#39; =PX$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NYqeFmumJkefznfXw7mZ-1">
+        <mxCell id="ERphHXKp3jjvEDwbwFeR-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$\lambda X&#39; =PX$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="NYqeFmumJkefznfXw7mZ-1" vertex="1">
           <mxGeometry x="430" y="580" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ERphHXKp3jjvEDwbwFeR-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;переводит БУП в себя, тогда для любых (x&lt;sub&gt;1&lt;/sub&gt;, x&lt;sub&gt;2&lt;/sub&gt;, 0)&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NYqeFmumJkefznfXw7mZ-1">
+        <mxCell id="ERphHXKp3jjvEDwbwFeR-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;переводит БУП в себя, тогда для любых (x&lt;sub&gt;1&lt;/sub&gt;, x&lt;sub&gt;2&lt;/sub&gt;, 0)&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="NYqeFmumJkefznfXw7mZ-1" vertex="1">
           <mxGeometry x="49" y="635" width="630" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ERphHXKp3jjvEDwbwFeR-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$\psi((x_1,x_2,0))=(x&#39;_1,x&#39;_2,0)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NYqeFmumJkefznfXw7mZ-1">
+        <mxCell id="ERphHXKp3jjvEDwbwFeR-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$\psi((x_1,x_2,0))=(x&#39;_1,x&#39;_2,0)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="NYqeFmumJkefznfXw7mZ-1" vertex="1">
           <mxGeometry x="355" y="700" width="390" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="SXIBJ48SZuqGNcNtEb18" name="p09">
-    <mxGraphModel dx="1629" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+  <diagram id="FkMfagv1QtvAGf6495wi" name="Page-9">
+    <mxGraphModel dx="1848" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
-        <mxCell id="SR-B7zWewuCMi70SuHVK-0" />
-        <mxCell id="SR-B7zWewuCMi70SuHVK-1" parent="SR-B7zWewuCMi70SuHVK-0" />
-        <mxCell id="GY3znR_4oX0x34bu8o3f-0" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;i&gt;и матрица преобразования&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SR-B7zWewuCMi70SuHVK-1">
-          <mxGeometry x="40" y="55" width="350" height="20" as="geometry" />
+        <mxCell id="dEItUWt7pRh3OwIy0FPN-0" />
+        <mxCell id="dEItUWt7pRh3OwIy0FPN-1" parent="dEItUWt7pRh3OwIy0FPN-0" />
+        <mxCell id="dEItUWt7pRh3OwIy0FPN-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$\lambda\begin{pmatrix}{x&#39;_1\\x&#39;_2\\x&#39;_3 }\end{pmatrix}=&lt;br&gt;\begin{pmatrix} \alpha_{11}&amp;amp;\alpha_{21}&amp;amp;\alpha_{31}\\&lt;br&gt;\alpha_{12}&amp;amp;\alpha_{22}&amp;amp;\alpha_{32}\\&lt;br&gt;\alpha_{13}&amp;amp;\alpha_{23}&amp;amp;\alpha_{33}\end{pmatrix}&lt;br&gt;\begin{pmatrix} x_1\\x_2\\x_3 \end{pmatrix} =&lt;br&gt;\begin{pmatrix}\alpha_{11}&amp;amp;\alpha_{21}&amp;amp;\alpha_{31}\\&lt;br&gt;\alpha_{12}&amp;amp;\alpha_{22}&amp;amp;\alpha_{32}\\0&amp;amp;0&amp;amp;0\end{pmatrix}&lt;br&gt;\begin{pmatrix} x_1\\x_2\\x_3 \end{pmatrix}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dEItUWt7pRh3OwIy0FPN-1">
+          <mxGeometry x="280" y="95" width="640" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dEItUWt7pRh3OwIy0FPN-3" value="&lt;font style=&quot;font-size: 28px&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;и матрица преобразования&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dEItUWt7pRh3OwIy0FPN-1">
+          <mxGeometry x="70" y="70" width="350" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
