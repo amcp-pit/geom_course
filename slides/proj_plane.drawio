@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T18:26:07.644Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="fKfzWm4LPfHZU9IJCk3D" version="13.10.9" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2020-12-09T08:57:34.512Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="DzqQzYBTTIwlPRqBLwSd" version="13.11.0" type="github" pages="26">
   <diagram name="p01" id="LTR2xaeMvxZZA6s-loW1">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="cgndy0xH1Acvvic2034y-0" />
         <mxCell id="cgndy0xH1Acvvic2034y-1" parent="cgndy0xH1Acvvic2034y-0" />
@@ -997,7 +997,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="p11" id="aRgcwJHxKjU4wum1SEBv">
-    <mxGraphModel dx="1422" dy="757" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="763" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l9e1NHuAZ2A-A6JZEl5Y-0" />
         <mxCell id="l9e1NHuAZ2A-A6JZEl5Y-1" parent="l9e1NHuAZ2A-A6JZEl5Y-0" />
@@ -1119,7 +1119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gWpPL57I70YmI1rbckTT" name="p12">
-    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="olvGWRtuqCB0rX5IvGwd-0" />
         <mxCell id="olvGWRtuqCB0rX5IvGwd-1" parent="olvGWRtuqCB0rX5IvGwd-0" />
@@ -1133,7 +1133,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FtD6wrh6NpjYOisJhgRC" name="p13">
-    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="SMAEgt8mAR6Jwr_Qsej6-0" />
         <mxCell id="SMAEgt8mAR6Jwr_Qsej6-1" parent="SMAEgt8mAR6Jwr_Qsej6-0" />
@@ -1147,7 +1147,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a8ABlwJ8dTHNt51Ai0Ct" name="p14">
-    <mxGraphModel dx="1422" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1417" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="uSIbZwe8PoV3MmDXgEBy-0" />
         <mxCell id="uSIbZwe8PoV3MmDXgEBy-1" parent="uSIbZwe8PoV3MmDXgEBy-0" />
@@ -1320,7 +1320,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mFTmPMxfybzIRUOsLugE" name="p15">
-    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1417" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="ZI20HJa8xa652xrMGoUk-0" />
         <mxCell id="ZI20HJa8xa652xrMGoUk-1" parent="ZI20HJa8xa652xrMGoUk-0" />
@@ -1354,7 +1354,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PmumAFp7YwEnzMgrH_hK" name="p16">
-    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1417" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="5i8QZNJsZ1zy4jJxa7k5-0" />
         <mxCell id="5i8QZNJsZ1zy4jJxa7k5-1" parent="5i8QZNJsZ1zy4jJxa7k5-0" />
@@ -1478,15 +1478,41 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RhN1wHnfW-piOK3ZbEfi" name="p21">
-    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="YK_dab84D7P3SnsyeUe--0" />
         <mxCell id="YK_dab84D7P3SnsyeUe--1" parent="YK_dab84D7P3SnsyeUe--0" />
         <mxCell id="dKHZypagr__pZ-xuUOev-0" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Принцип двойственности: пример&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YK_dab84D7P3SnsyeUe--1" vertex="1">
           <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5oXIQ6WxLqRIgJEgZ9IS-0" value="&lt;div style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; text-align: justify ; font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Теор.&lt;i&gt; &lt;/i&gt;&lt;/b&gt;&lt;i&gt;Пусть даны два трехвершинника ABC и A&#39;B&#39;C&#39;, такие, что одноименные вершины и прямые, содержащие соответствующие стороны не совпадают&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;. Тогда три прямые AA&#39;, BB&#39;, CC&#39; пересекаются в одной точке &amp;lt;=&amp;gt; точки пересечения прямых AB и A&#39;B&#39;, AC и A&#39;C&#39;, BC и B&#39;C&#39; лежат на одной прямой.&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="YK_dab84D7P3SnsyeUe--1" vertex="1">
+        <mxCell id="5oXIQ6WxLqRIgJEgZ9IS-0" value="&lt;div style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; text-align: justify ; font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Теор.&lt;/b&gt;&lt;i style=&quot;font-weight: bold&quot;&gt;&amp;nbsp;&lt;/i&gt;(Дезарга)&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;i&gt;Пусть даны два трехвершинника ABC и A&#39;B&#39;C&#39;, такие, что одноименные вершины и прямые, содержащие соответствующие стороны не совпадают&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;. Тогда три прямые AA&#39;, BB&#39;, CC&#39; пересекаются в одной точке &amp;lt;=&amp;gt; точки пересечения прямых AB и A&#39;B&#39;, AC и A&#39;C&#39;, BC и B&#39;C&#39; лежат на одной прямой.&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="YK_dab84D7P3SnsyeUe--1" vertex="1">
           <mxGeometry x="40" y="120" width="1090" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="p22" id="85Cchfb-9MphPM1vmyhl">
+    <mxGraphModel dx="1181" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="uaNEJ0-oEARkQLJpiuz7-0" />
+        <mxCell id="uaNEJ0-oEARkQLJpiuz7-1" parent="uaNEJ0-oEARkQLJpiuz7-0" />
+        <mxCell id="uaNEJ0-oEARkQLJpiuz7-2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Принцип двойственности: пример&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uaNEJ0-oEARkQLJpiuz7-1">
+          <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uaNEJ0-oEARkQLJpiuz7-3" value="&lt;div style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; text-align: justify ; font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Теор.&lt;/b&gt;&lt;i style=&quot;font-weight: bold&quot;&gt;&amp;nbsp;&lt;/i&gt;(Дезарга)&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;i&gt;Пусть даны два трехвершинника ABC и A&#39;B&#39;C&#39;, такие, что одноименные вершины и прямые, содержащие соответствующие стороны не совпадают&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;. Тогда три прямые AA&#39;, BB&#39;, CC&#39; пересекаются в одной точке &amp;lt;=&amp;gt; точки пересечения прямых AB и A&#39;B&#39;, AC и A&#39;C&#39;, BC и B&#39;C&#39; лежат на одной прямой.&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="uaNEJ0-oEARkQLJpiuz7-1">
+          <mxGeometry x="40" y="120" width="1090" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uaNEJ0-oEARkQLJpiuz7-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b style=&quot;font-style: italic&quot;&gt;Д-во&lt;/b&gt;&lt;i&gt;. Н. &lt;/i&gt;]&lt;i&gt; AA&#39;, BB&#39;, CC&#39; пересекаются в т. S, тогда&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uaNEJ0-oEARkQLJpiuz7-1">
+          <mxGeometry x="40" y="340" width="620" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uaNEJ0-oEARkQLJpiuz7-5" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$\vec{\bf{r}}_S = \alpha \vec{\bf{r}}_A+\alpha&#39; \vec{\bf{r}}_A&#39;&lt;br&gt;=\beta \vec{\bf{r}}_B+\beta&#39; \vec{\bf{r}}_B&#39;&lt;br&gt;= \gamma \vec{\bf{r}}_C+\gamma&#39; \vec{\bf{r}}_C&#39;&lt;br&gt;&amp;nbsp;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uaNEJ0-oEARkQLJpiuz7-1">
+          <mxGeometry x="255" y="385" width="660" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3in6xxPvMTK1P_1rgCP_-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$\begin{matrix} \vec{\bf{r}}_D =&amp;nbsp;&amp;nbsp;&lt;br&gt;\beta \vec{\bf{r}}_B -\gamma \vec{\bf{r}}_C&amp;nbsp;&lt;br&gt;=&amp;nbsp;&lt;br&gt;\beta&#39; \vec{\bf{r}}_B&#39; -\gamma&#39; \vec{\bf{r}}_C&#39;\\&lt;br&gt;\vec{\bf{r}}_E =&amp;nbsp;&amp;nbsp;&lt;br&gt;\alpha \vec{\bf{r}}_A -&amp;nbsp;\beta \vec{\bf{r}}_B = &lt;br&gt;\alpha&#39; \vec{\bf{r}}_A&#39; - \beta&#39; \vec{\bf{r}}_B&#39;&amp;nbsp;\\&lt;br&gt;\vec{\bf{r}}_F =&amp;nbsp;&amp;nbsp;&lt;br&gt;\alpha \vec{\bf{r}}_A -&amp;nbsp;\gamma \vec{\bf{r}}_C =&amp;nbsp;&lt;br&gt;\alpha&#39; \vec{\bf{r}}_A&#39; - \gamma&#39; \vec{\bf{r}}_C&#39;&lt;br&gt;&amp;nbsp;&lt;br&gt;\end{matrix}&lt;br&gt;&amp;nbsp;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uaNEJ0-oEARkQLJpiuz7-1">
+          <mxGeometry x="310" y="450" width="510" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8Zz6nMIcAHUekyfnMP8Q-0" value="&lt;font style=&quot;font-size: 32px&quot;&gt;=&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;" vertex="1" parent="uaNEJ0-oEARkQLJpiuz7-1">
+          <mxGeometry x="550" y="464" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
