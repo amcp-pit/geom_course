@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T20:51:56.415Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="T6yiTB9xtCjsgkHYGm9k" version="14.0.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-12-09T20:54:40.266Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Xr3rez5xh01PYlKdd7Gg" version="14.0.0" type="github" pages="13">
   <diagram name="p01" id="DLQpAvPrtUbYdDvNZ_r8">
     <mxGraphModel dx="1635" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -310,7 +310,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of p10" id="yhn2xQ6aL8VKAZeSXQRI">
+  <diagram name="p11" id="yhn2xQ6aL8VKAZeSXQRI">
     <mxGraphModel dx="1626" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="dH4qGMkVGxGQ21Aa2ahB-0" />
@@ -336,13 +336,13 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="p11" id="ZrB2h6Rqdfb5NCp7Gyla">
+  <diagram name="p12" id="ZrB2h6Rqdfb5NCp7Gyla">
     <mxGraphModel dx="1626" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="ZjomWGqQpel2DjPOTuId-0" />
         <mxCell id="ZjomWGqQpel2DjPOTuId-1" parent="ZjomWGqQpel2DjPOTuId-0" />
-        <mxCell id="ZjomWGqQpel2DjPOTuId-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$\begin{pmatrix}{x&#39;_1\\x&#39;_2\\x&#39;_3 }\end{pmatrix}=&lt;br&gt;\begin{pmatrix}\lambda\cos(\varphi)&amp;amp;-\lambda sin(\varphi)&amp;amp;x_{10}\\&lt;br&gt;\lambda sin(\varphi)&amp;amp;\lambda cos(\varphi)&amp;amp;x_{20}\\0&amp;amp;0&amp;amp;1\end{pmatrix}&lt;br&gt;\begin{pmatrix} x_1\\x_2\\x_3 \end{pmatrix}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ZjomWGqQpel2DjPOTuId-1">
-          <mxGeometry x="205" y="165" width="770" height="70" as="geometry" />
+        <mxCell id="ZjomWGqQpel2DjPOTuId-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$\lambda\begin{pmatrix}{x&#39;_1\\x&#39;_2\\x&#39;_3 }\end{pmatrix}=&lt;br&gt;\begin{pmatrix} S cos(\varphi)&amp;amp;-S sin(\varphi)&amp;amp;x_{10}\\&lt;br&gt;S sin(\varphi)&amp;amp;S cos(\varphi)&amp;amp;x_{20}\\0&amp;amp;0&amp;amp;1\end{pmatrix}&lt;br&gt;\begin{pmatrix} x_1\\x_2\\x_3 \end{pmatrix}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ZjomWGqQpel2DjPOTuId-1">
+          <mxGeometry x="275" y="165" width="630" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xwLhe2spUSidZsG4ivoC-0" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Частные случаи: преобразования подобия&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZjomWGqQpel2DjPOTuId-1">
           <mxGeometry x="40" y="39" width="920" height="20" as="geometry" />
@@ -365,7 +365,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of p11" id="5e8MpUzGsqkj192FsHXA">
+  <diagram name="p13" id="5e8MpUzGsqkj192FsHXA">
     <mxGraphModel dx="1626" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="LfPbX3_XL4qYH5mjQ6Eo-0" />
