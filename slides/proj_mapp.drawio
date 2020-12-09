@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T17:31:07.360Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="0_E7I09DhzCXQvwXp1Yw" version="14.0.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-12-09T20:18:24.901Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="mJA-X-oxmuF1mQv9I-P_" version="14.0.0" type="github" pages="9">
   <diagram name="p01" id="DLQpAvPrtUbYdDvNZ_r8">
     <mxGraphModel dx="1635" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -273,12 +273,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="FkMfagv1QtvAGf6495wi" name="Page-9">
-    <mxGraphModel dx="1635" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+  <diagram id="FkMfagv1QtvAGf6495wi" name="p09">
+    <mxGraphModel dx="1626" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="dEItUWt7pRh3OwIy0FPN-0" />
         <mxCell id="dEItUWt7pRh3OwIy0FPN-1" parent="dEItUWt7pRh3OwIy0FPN-0" />
-        <mxCell id="dEItUWt7pRh3OwIy0FPN-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$\lambda\begin{pmatrix}{x&#39;_1\\x&#39;_2\\x&#39;_3 }\end{pmatrix}=&lt;br&gt;\begin{pmatrix} \alpha_{11}&amp;amp;\alpha_{21}&amp;amp;\alpha_{31}\\&lt;br&gt;\alpha_{12}&amp;amp;\alpha_{22}&amp;amp;\alpha_{32}\\&lt;br&gt;\alpha_{13}&amp;amp;\alpha_{23}&amp;amp;\alpha_{33}\end{pmatrix}&lt;br&gt;\begin{pmatrix} x_1\\x_2\\x_3 \end{pmatrix} =&lt;br&gt;\begin{pmatrix}\alpha_{11}&amp;amp;\alpha_{21}&amp;amp;\alpha_{31}\\&lt;br&gt;\alpha_{12}&amp;amp;\alpha_{22}&amp;amp;\alpha_{32}\\0&amp;amp;0&amp;amp;0\end{pmatrix}&lt;br&gt;\begin{pmatrix} x_1\\x_2\\x_3 \end{pmatrix}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="dEItUWt7pRh3OwIy0FPN-1" vertex="1">
+        <mxCell id="dEItUWt7pRh3OwIy0FPN-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$\lambda\begin{pmatrix}{x&#39;_1\\x&#39;_2\\x&#39;_3 }\end{pmatrix}=&lt;br&gt;\begin{pmatrix} \alpha_{11}&amp;amp;\alpha_{21}&amp;amp;\alpha_{31}\\&lt;br&gt;\alpha_{12}&amp;amp;\alpha_{22}&amp;amp;\alpha_{32}\\&lt;br&gt;\alpha_{13}&amp;amp;\alpha_{23}&amp;amp;\alpha_{33}\end{pmatrix}&lt;br&gt;\begin{pmatrix} x_1\\x_2\\x_3 \end{pmatrix} =&lt;br&gt;\begin{pmatrix}\alpha_{11}&amp;amp;\alpha_{21}&amp;amp;\alpha_{31}\\&lt;br&gt;\alpha_{12}&amp;amp;\alpha_{22}&amp;amp;\alpha_{32}\\0&amp;amp;0&amp;amp;1\end{pmatrix}&lt;br&gt;\begin{pmatrix} x_1\\x_2\\x_3 \end{pmatrix}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="dEItUWt7pRh3OwIy0FPN-1" vertex="1">
           <mxGeometry x="270" y="130" width="640" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dEItUWt7pRh3OwIy0FPN-3" value="&lt;font style=&quot;font-size: 28px&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;и матрица отображения примет вид&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="dEItUWt7pRh3OwIy0FPN-1" vertex="1">
