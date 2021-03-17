@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T16:02:57.186Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="IpubnTvW52YguZXfdu41" version="14.4.8" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-03-17T11:58:28.235Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="nTubq581RW-JDDy_NySu" version="14.4.8" type="github" pages="12">
   <diagram id="WJ_pFbdTwh9lwpax1kyi" name="p01">
     <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -260,7 +260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="p05" id="ssrSPypdEc0lpDmJgTeP">
-    <mxGraphModel dx="1394" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="lq1V7aOhwsgSkZfXIPty-0" />
         <mxCell id="lq1V7aOhwsgSkZfXIPty-1" parent="lq1V7aOhwsgSkZfXIPty-0" />
@@ -552,37 +552,67 @@
         <mxCell id="LZg-ZOs7uGCxKAF0xS-u-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\( \vec{\bf{a}}_0,\dots, \vec{\bf{a}}_k, \dots, \vec{\bf{a}}_n - ?&lt;br&gt;\)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gCRS29Pg4banHI4Qh9kp-1" vertex="1">
           <mxGeometry x="460" y="90" width="390" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VNDWq9yzSo9O7_mfruRF-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\vec{\bf{r}}(t_0) =&amp;nbsp;\vec{\bf{r}}_0 =&amp;nbsp; \vec{\bf{a}}_0&amp;nbsp;\)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gCRS29Pg4banHI4Qh9kp-1" vertex="1">
-          <mxGeometry x="460" y="230" width="220" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="BZ65ubq_OPcLFCcUa5cw-0" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=9.714285714285714;endSize=7.382857142857143;" parent="gCRS29Pg4banHI4Qh9kp-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="160" as="sourcePoint" />
             <mxPoint x="620" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BZ65ubq_OPcLFCcUa5cw-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\vec{\bf{r}}(t_2) =&amp;nbsp;&lt;br&gt;\vec{\bf{r}}_2 =&amp;nbsp; \vec{\bf{a}}_0 +&amp;nbsp;&amp;nbsp;\vec{\bf{a}}_1(t_2-t_0)+&lt;br&gt;\vec{\bf{a}}_2(t_2-t_0)(t_2-t_1)&lt;br&gt;\)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gCRS29Pg4banHI4Qh9kp-1" vertex="1">
-          <mxGeometry x="600" y="344" width="390" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="BZ65ubq_OPcLFCcUa5cw-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\vec{\bf{r}}(t_1) =&amp;nbsp;&lt;br&gt;\vec{\bf{r}}_1 =&amp;nbsp; \vec{\bf{a}}_0 +&amp;nbsp;&amp;nbsp;\vec{\bf{a}}_1(t_1-t_0)\)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gCRS29Pg4banHI4Qh9kp-1" vertex="1">
-          <mxGeometry x="460" y="280" width="390" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="BZ65ubq_OPcLFCcUa5cw-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\dots \)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gCRS29Pg4banHI4Qh9kp-1" vertex="1">
-          <mxGeometry x="460" y="380" width="90" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="_DNNg9WNWVNmT9PaO7Na-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Коэффициенты a&lt;sub&gt;&lt;i&gt;i&lt;/i&gt;&lt;/sub&gt; вычисляются итеративно. &lt;br&gt;При добавлении контрольной точки&lt;br&gt;необходимо пересчитать только один векторный коэффициент&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="gCRS29Pg4banHI4Qh9kp-1" vertex="1">
-          <mxGeometry x="35" y="530" width="720" height="60" as="geometry" />
+          <mxGeometry x="20" y="720" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F16smXv3Rm_Et3CiwW07-0" value="" style="group" vertex="1" connectable="0" parent="gCRS29Pg4banHI4Qh9kp-1">
+          <mxGeometry x="460" y="200" width="530" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="VNDWq9yzSo9O7_mfruRF-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\vec{\bf{r}}(t_0) =&amp;nbsp;\vec{\bf{r}}_0 =&amp;nbsp; \vec{\bf{a}}_0&amp;nbsp;\)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="F16smXv3Rm_Et3CiwW07-0" vertex="1">
+          <mxGeometry width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BZ65ubq_OPcLFCcUa5cw-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\vec{\bf{r}}(t_2) =&amp;nbsp;&lt;br&gt;\vec{\bf{r}}_2 =&amp;nbsp; \vec{\bf{a}}_0 +&amp;nbsp;&amp;nbsp;\vec{\bf{a}}_1(t_2-t_0)+&lt;br&gt;\vec{\bf{a}}_2(t_2-t_0)(t_2-t_1)&lt;br&gt;\)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="F16smXv3Rm_Et3CiwW07-0" vertex="1">
+          <mxGeometry x="140" y="114" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BZ65ubq_OPcLFCcUa5cw-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\vec{\bf{r}}(t_1) =&amp;nbsp;&lt;br&gt;\vec{\bf{r}}_1 =&amp;nbsp; \vec{\bf{a}}_0 +&amp;nbsp;&amp;nbsp;\vec{\bf{a}}_1(t_1-t_0)\)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="F16smXv3Rm_Et3CiwW07-0" vertex="1">
+          <mxGeometry y="50" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BZ65ubq_OPcLFCcUa5cw-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\dots \)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="F16smXv3Rm_Et3CiwW07-0" vertex="1">
+          <mxGeometry y="150" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="F16smXv3Rm_Et3CiwW07-1" value="" style="group" vertex="1" connectable="0" parent="gCRS29Pg4banHI4Qh9kp-1">
+          <mxGeometry x="460" y="460" width="530" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="F16smXv3Rm_Et3CiwW07-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\vec{\bf{a}}_0&amp;nbsp;=&amp;nbsp;\vec{\bf{r}}_0 \)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F16smXv3Rm_Et3CiwW07-1">
+          <mxGeometry width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="F16smXv3Rm_Et3CiwW07-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\vec{\bf{a}}_2&amp;nbsp;=&amp;nbsp;&lt;br&gt;(\vec{\bf{r}}_2 - \vec{\bf{a}}_0 -&amp;nbsp; \vec{\bf{a}}_1(t_2-t_0))/&lt;br&gt;(t_2-t_0)(t_2-t_1)&lt;br&gt;\)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F16smXv3Rm_Et3CiwW07-1">
+          <mxGeometry x="100" y="100" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="F16smXv3Rm_Et3CiwW07-4" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\vec{\bf{a}}_1 = (\vec{\bf{r}}_1&amp;nbsp; - \vec{\bf{a}}_0)/(t_1-t_0)\)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F16smXv3Rm_Et3CiwW07-1">
+          <mxGeometry y="50" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="F16smXv3Rm_Et3CiwW07-5" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\dots \)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F16smXv3Rm_Et3CiwW07-1">
+          <mxGeometry y="150" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="F16smXv3Rm_Et3CiwW07-6" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=9.714285714285714;endSize=7.382857142857143;" edge="1" parent="gCRS29Pg4banHI4Qh9kp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="420" as="sourcePoint" />
+            <mxPoint x="620" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="DLmYQ83LrqQ6JtfV-K07" name="p12">
-    <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="kpQwKzNYKveBWkuJfh7h-0" />
         <mxCell id="kpQwKzNYKveBWkuJfh7h-1" parent="kpQwKzNYKveBWkuJfh7h-0" />
-        <mxCell id="IGb-N6GFGUOb4PfFPXGU-0" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;ИП Ньютона&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kpQwKzNYKveBWkuJfh7h-1">
+        <mxCell id="IGb-N6GFGUOb4PfFPXGU-0" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Сплайн-2&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="kpQwKzNYKveBWkuJfh7h-1" vertex="1">
           <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H18Yi3x1Ix3NvBUy0e3W-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(\begin{matrix}{\vec{\bf{r}}_0&amp;nbsp;\leftrightarrow&amp;nbsp;t_0,\\&lt;br&gt;\vec{\bf{r}}_1 \leftrightarrow&amp;nbsp;&amp;nbsp;t_1, \\&lt;br&gt;\dots,\\&lt;br&gt;&amp;nbsp;\leftrightarrow&amp;nbsp;&amp;nbsp;t_k,\\&lt;br&gt;\dots, \\&lt;br&gt;\vec{\bf{r}}_n \leftrightarrow&amp;nbsp;&amp;nbsp;t_n}\end{matrix}\)&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kpQwKzNYKveBWkuJfh7h-1">
+          <mxGeometry x="180" y="300" width="150" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="H18Yi3x1Ix3NvBUy0e3W-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;На каждом отрезке \([t_k, t_{k+1}]\)&amp;nbsp; между \( \vec{\bf{r}}_k \) и \(\vec{\bf{r}}_{k+1}\) &lt;br&gt;будем рассматривать \(\vec{\bf{r}}(t) \) как полином второго порядка +&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kpQwKzNYKveBWkuJfh7h-1">
+          <mxGeometry x="40" y="100" width="900" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
