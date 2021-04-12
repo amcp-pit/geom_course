@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T11:42:06.253Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="wHxDdQNhx-Pi3e1Axzap" version="14.5.8" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2021-04-12T11:43:00.375Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="aiCPjvH7GJGbOV4KpYW1" version="14.5.8" type="github" pages="26">
   <diagram id="WJ_pFbdTwh9lwpax1kyi" name="p01">
     <mxGraphModel dx="1414" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -1431,7 +1431,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of p171" id="Yyz6aaOEe4erP0KpruEc">
+  <diagram name="p22" id="Yyz6aaOEe4erP0KpruEc">
     <mxGraphModel dx="1414" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="SSox2G-Z5Jg2Ei15myAY-0" />
@@ -1448,15 +1448,15 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="p22" id="mUo58rQpJ1hul88SJ4MN">
+  <diagram name="p23" id="mUo58rQpJ1hul88SJ4MN">
     <mxGraphModel dx="1414" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="foOVgAzigASZpZOmEEmr-0" />
         <mxCell id="foOVgAzigASZpZOmEEmr-1" parent="foOVgAzigASZpZOmEEmr-0" />
-        <mxCell id="foOVgAzigASZpZOmEEmr-2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Кривые Безье: возможности&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="foOVgAzigASZpZOmEEmr-1">
+        <mxCell id="foOVgAzigASZpZOmEEmr-2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Кривые Безье: возможности&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="foOVgAzigASZpZOmEEmr-1" vertex="1">
           <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x3DbxPGl4zWIjQvro7Tg-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Какие кривые могут/не могут быть представлены с помощью кривых Безье?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="foOVgAzigASZpZOmEEmr-1">
+        <mxCell id="x3DbxPGl4zWIjQvro7Tg-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Какие кривые могут/не могут быть представлены с помощью кривых Безье?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="foOVgAzigASZpZOmEEmr-1" vertex="1">
           <mxGeometry x="40" y="120" width="870" height="20" as="geometry" />
         </mxCell>
       </root>
