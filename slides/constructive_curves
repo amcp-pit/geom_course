@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T14:16:18.663Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="ODHT0oNXMF6CwNBZm-FY" version="14.5.7" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2021-04-12T11:42:06.253Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="wHxDdQNhx-Pi3e1Axzap" version="14.5.8" type="github" pages="26">
   <diagram id="WJ_pFbdTwh9lwpax1kyi" name="p01">
-    <mxGraphModel dx="1414" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1414" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1407,25 +1407,25 @@
       <root>
         <mxCell id="riEqMWu8lGxKvtnyGjRi-0" />
         <mxCell id="riEqMWu8lGxKvtnyGjRi-1" parent="riEqMWu8lGxKvtnyGjRi-0" />
-        <mxCell id="riEqMWu8lGxKvtnyGjRi-2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Полиномы Бернштейна: свойства&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="riEqMWu8lGxKvtnyGjRi-1">
+        <mxCell id="riEqMWu8lGxKvtnyGjRi-2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Полиномы Бернштейна: свойства&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="riEqMWu8lGxKvtnyGjRi-1" vertex="1">
           <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="chl1rIAxv6JrYw4bbKmb-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(P_m^n(t) = C_n^mt^m(1-t)^{n-m},&amp;nbsp; t\in{[0,1]}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="riEqMWu8lGxKvtnyGjRi-1">
+        <mxCell id="chl1rIAxv6JrYw4bbKmb-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;\(P_m^n(t) = C_n^mt^m(1-t)^{n-m},&amp;nbsp; t\in{[0,1]}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="riEqMWu8lGxKvtnyGjRi-1" vertex="1">
           <mxGeometry x="330" y="110" width="510" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="m51COEwDeuE8lACHQGY8-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;1. \( 0\leq P_m^n(t) \leq 1,&amp;nbsp; t\in{[0,1]}, m = \overline{0,n}\)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="riEqMWu8lGxKvtnyGjRi-1">
+        <mxCell id="m51COEwDeuE8lACHQGY8-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;1. \( 0\leq P_m^n(t) \leq 1,&amp;nbsp; t\in{[0,1]}, m = \overline{0,n}\)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="riEqMWu8lGxKvtnyGjRi-1" vertex="1">
           <mxGeometry x="100" y="180" width="610" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="m51COEwDeuE8lACHQGY8-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;3. \( P_0^n(0) = 1,&amp;nbsp;&amp;nbsp;P_0^n(1) = 0&lt;br&gt;&amp;nbsp; \)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="riEqMWu8lGxKvtnyGjRi-1">
+        <mxCell id="m51COEwDeuE8lACHQGY8-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;3. \( P_0^n(0) = 1,&amp;nbsp;&amp;nbsp;P_0^n(1) = 0&lt;br&gt;&amp;nbsp; \)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="riEqMWu8lGxKvtnyGjRi-1" vertex="1">
           <mxGeometry x="100" y="300" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m51COEwDeuE8lACHQGY8-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;4. \( P_n^n(0) = 0,&amp;nbsp;&amp;nbsp;P_n^n(1) = 1&lt;br&gt;&amp;nbsp; \)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="riEqMWu8lGxKvtnyGjRi-1">
+        <mxCell id="m51COEwDeuE8lACHQGY8-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;4. \( P_n^n(0) = 0,&amp;nbsp;&amp;nbsp;P_n^n(1) = 1&lt;br&gt;&amp;nbsp; \)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="riEqMWu8lGxKvtnyGjRi-1" vertex="1">
           <mxGeometry x="100" y="360" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G1Q9eVy2qU0RgtZG1tX--0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;1. \( 0\leq P_m^n(t) \lt 1,&amp;nbsp; t\in{[0,1]}, m = \overline{1,n-1}\)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="riEqMWu8lGxKvtnyGjRi-1">
+        <mxCell id="G1Q9eVy2qU0RgtZG1tX--0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;1. \( 0\leq P_m^n(t) \lt 1,&amp;nbsp; t\in{[0,1]}, m = \overline{1,n-1}\)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="riEqMWu8lGxKvtnyGjRi-1" vertex="1">
           <mxGeometry x="100" y="240" width="620" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R-pL8RscKcXh7jwgWCXc-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;5. \(\sum\limits_{k=0}^{n}{P_k^n(t)} = ( t + (1-t) )^n = 1 , \forall{t}\)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="riEqMWu8lGxKvtnyGjRi-1">
+        <mxCell id="R-pL8RscKcXh7jwgWCXc-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;5. \(\sum\limits_{k=0}^{n}{P_k^n(t)} = ( t + (1-t) )^n = 1 , \forall{t}\)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="riEqMWu8lGxKvtnyGjRi-1" vertex="1">
           <mxGeometry x="100" y="440" width="700" height="20" as="geometry" />
         </mxCell>
       </root>
@@ -1436,11 +1436,14 @@
       <root>
         <mxCell id="SSox2G-Z5Jg2Ei15myAY-0" />
         <mxCell id="SSox2G-Z5Jg2Ei15myAY-1" parent="SSox2G-Z5Jg2Ei15myAY-0" />
-        <mxCell id="SSox2G-Z5Jg2Ei15myAY-4" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Кривые Безье: свойства&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SSox2G-Z5Jg2Ei15myAY-1">
+        <mxCell id="SSox2G-Z5Jg2Ei15myAY-4" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Кривые Безье: свойства&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SSox2G-Z5Jg2Ei15myAY-1" vertex="1">
           <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="i6AzH8e5DV1QOaj9c75j-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Порядок кривой определяется количеством контрольных точек&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SSox2G-Z5Jg2Ei15myAY-1">
+        <mxCell id="i6AzH8e5DV1QOaj9c75j-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Порядок кривой определяется количеством контрольных точек&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="SSox2G-Z5Jg2Ei15myAY-1" vertex="1">
           <mxGeometry x="40" y="120" width="720" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kiN_mUPIQYDPIO42kz4H-0" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Привязка к интервалу [0,1] значений параметра&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SSox2G-Z5Jg2Ei15myAY-1">
+          <mxGeometry x="40" y="170" width="550" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
